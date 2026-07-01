@@ -12,20 +12,20 @@ This repository showcases my knowledge, methodologies, frameworks, and practical
 
 | Module | Description |
 |---------|-------------|
-| 📁 PMO Governance | Governance framework, policies, standards, and operating model |
-| 📋 Project Charter | Project initiation templates and documentation |
-| 📅 Project Planning | Scope, schedule, milestones, and planning artefacts |
-| ⚠️ RAID Log | Risk, Assumptions, Issues, and Dependencies management |
-| 🔄 Change Request | Change control process and templates |
-| 👥 Stakeholder Management | Stakeholder analysis and communication planning |
-| 📊 Executive Reporting | Weekly, monthly, and portfolio reporting samples |
-| 🚦 Stage-Gate Governance | Governance reviews and approval checkpoints |
-| ✅ Project Closure | Closure reports, handover, and benefits realization |
-| 💡 Lessons Learned | Knowledge capture and continuous improvement |
-| 📈 PMO KPIs | Sample PMO metrics and dashboards |
-| 🗂️ Program Governance | Governance across multiple projects |
-| 📉 Power BI Dashboards | Executive dashboard concepts and reporting examples |
-| 🤖 AI for PMO | AI prompts and practical PMO use cases |
+| 📁 PMO Governance | PMO operating model, governance framework, policies, standards, roles, and responsibilities |
+| 📋 Project Charter | Business case, project initiation, charter development, approvals, and project authorization |
+| 📅 Project Planning | Scope, WBS, schedule, milestones, resource planning, budget planning, and baseline management |
+| ⚠️ Risk & Issue Management | RAID management, risk registers, issue logs, assumptions, dependencies, and mitigation planning |
+| 🔄 Change Request | Change request lifecycle, impact assessment, approvals, and change governance |
+| 👥 Stakeholder Management | Stakeholder identification, analysis, communication planning, engagement, and reporting |
+| 📊 Executive Reporting | Weekly reports, monthly reports, portfolio dashboards, KPIs, and executive summaries |
+| 🚦 Stage-Gate Governance | Phase reviews, governance checkpoints, approvals, quality gates, and decision criteria |
+| ✅ Project Closure | Project handover, closure reports, benefits realization, transition, and administrative closure |
+| 💡 Lessons Learned | Retrospectives, continuous improvement, knowledge management, and organizational learning |
+| 📈 PMO KPIs | PMO performance metrics, portfolio health, governance compliance, and reporting dashboards |
+| 🗂️ Program Governance | Governance frameworks for managing multiple related projects, dependencies, and benefits  |
+| 📉 Power BI Dashboards | Interactive executive dashboards, portfolio analytics, KPI visualization, and reporting examples |
+| 🤖 AI for PMO | Practical AI prompts, automation ideas, document generation, reporting, and PMO productivity |
 
 ---
 
