@@ -55,8 +55,6 @@ The PMO Governance Framework provides a standardized approach for managing proje
 - 📄 Project Charter
 - 📅 Project Management Plan
 - 📋 RAID Log
-- ⚠ Risk Register
-- 📝 Issue Log
 - 🔄 Change Request Register
 - 📊 Executive Dashboard
 - 📈 Status Report
