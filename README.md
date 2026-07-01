@@ -1,51 +1,28 @@
 # PMO Portfolio
 
-Welcome!
+Hi, I'm **Louzinha Carvalho**, a **PMP®** and **Certified ScrumMaster® (CSM®)** with over **14 years of experience** across aviation, healthcare SaaS, and logistics.
 
-I'm Louzinha Carvalho, PMP® and CSM® certified Project Management Professional with experience across aviation, healthcare SaaS and logistics.
-
-This repository demonstrates my knowledge of PMO Governance, Program Management, Project Delivery, Executive Reporting and Project Controls.
+This portfolio demonstrates my knowledge of PMO governance, project delivery, project controls, stakeholder management, executive reporting, and continuous improvement.
 
 ---
 
-## Repository Contents
+## Portfolio
 
-01 PMO Governance
-
-02 Project Lifecycle
-
-03 Project Charter
-
-04 Project Planning
-
-05 Stakeholder Management
-
-06 Risk & Issue Management
-
-07 Change Control
-
-08 Project Execution
-
-09 Monitoring & Control
-
-10 Executive Reporting
-
-11 Stage Gate Governance
-
-12 Project Closure
-
-13 Lessons Learned
-
-14 PMO KPIs
-
-15 Program Management
-
-16 Templates
-
-17 Power BI Dashboards
-
-18 AI for PMO
+- PMO Governance Framework
+- Project Charter
+- RAID Log
+- Change Request Management
+- Stage-Gate Governance
+- Executive Reporting
+- Project Closure
+- Lessons Learned
+- Risk Management
+- Stakeholder Management
+- PMO KPIs
+- Program Governance
+- Power BI Dashboards (Sample)
+- AI for PMO
 
 ---
 
-This portfolio has been developed for demonstration purposes only and contains no confidential company information.
+> All documents are created for demonstration purposes and do not contain confidential company information.
